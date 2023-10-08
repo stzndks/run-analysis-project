@@ -4,9 +4,7 @@ This CodeBook describes the variables, the data, and any transformations or work
 
 The run_analysis.R script performs the data preparation followed by the 5 steps according to course project desxription.
 
-i.    Load appropriate libraries 
-
-Load data.table and dplyr libraries
+i.    Load appropriate libraries (data.table and dplyr libraries)
 
 ii.   Download the dataset
 Dataset downloaded in ./data directory and unzipped under the folder called UCI HAR Dataset of the working directory
